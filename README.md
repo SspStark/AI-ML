@@ -10,7 +10,7 @@ Reasoning.\
 **Machine Exhibiting Intelligence** in Uncertain Environments like predicting weather conditions.\
 **Search-based AI** --> AI in Google Maps or Solving Puzzles.
 ## Machine Learning
-**A subfield of AI that gives computers the ability to learn itself by identifying patterns from the Data we provide without being explicitly programmed**.
+**A subfield of AI that gives computers the ability to learn itself by identifying patterns from the Data we provide using different ML Algorithms without being explicitly programmed**.
 
 The best example for this is ***Personalized Suggestions*** in ecommerce websites or social media based on the user likes and interests, Voice recognization and Face recognization also good examples of ML.
 
@@ -18,5 +18,10 @@ The best example for this is ***Personalized Suggestions*** in ecommerce website
 - Image,Text file, Video,Emails,Messages,etc.
 
 Data --> ML Software --> Program(Intelligent)
+
+## Deep Learning
+Deep Learning is part of ML,it deals with huge volumes of data to identify the underlying patterns in it.\
+It is also called as Artificial Neural Networks.
+- Artificial Neural Networks are based on the ideas of how the human brain works.
 
 
