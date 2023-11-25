@@ -24,6 +24,10 @@ Deep Learning is part of ML, it deals with huge volumes of data to identify the 
 It is also called as Artificial Neural Networks.
 - Artificial Neural Networks are based on the ideas of how the human brain works.
 
-Tryout the Google [Teachable Machine](https://teachablemachine.withgoogle.com/) to understand how ML Software takes data and create a program to give the output.
+Tryout the Google [Teachable Machine](https://teachablemachine.withgoogle.com/) to understand how ML Software takes data and create a program to give the predicted output using prediction function.
+
+## Data Science
+Data Science is the science of **extracting knowledge and insights from data**.
+
 
 
