@@ -3,7 +3,7 @@
 **Creation of Intelligent Machines.**
 - Programming machines to exhibit intelligence.
 - Machine identifying patterns and learning by itself.
-### Programming machines Examples:/
+### Programming machines Examples:\
 **Knowledge-based AI**/
 Expert Systems --> Suggesting what to do based on our questions and answers,like a docter./
 Reasoning.
