@@ -16,4 +16,6 @@ The best example for this is ***Personalized Suggestions*** in ecommerce website
 
 **Data** --> Any information that is stored is called Data.
 - Image,Text file, Video,Emails,Messages,etc.
+Data --> ML Software --> Program(Intelligent)
+
 
