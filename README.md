@@ -9,7 +9,7 @@ Expert Systems --> Suggesting what to do based on our questions and answers,like
 Reasoning.\
 **Machine Exhibiting Intelligence** in Uncertain Environments like predicting weather conditions.\
 **Search-based AI** --> AI in Google Maps or Solving Puzzles.
-### Machine identifying patterns
-The best example for this is ***Personalized Suggestions*** in ecommerce website or social media based on the user likes and interests.
-
+## Machine Learning
+A subfield of AI that gives computers the ability to learn itself by identifying patterns without being explicitly programmed./
+The best example for this is ***Personalized Suggestions*** in ecommerce websites or social media based on the user likes and interests.
 
