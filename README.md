@@ -8,6 +8,8 @@
 Expert Systems --> Suggesting what to do based on our questions and answers,like a docter.\
 Reasoning.\
 **Machine Exhibiting Intelligence** in Uncertain Environments like predicting weather conditions.\
-**Search-based AI** --> AI in Google Maps or Solving Puzzles.\
+**Search-based AI** --> AI in Google Maps or Solving Puzzles.
+### Machine identifying patterns
+The best example for this is ***Personalized Suggestions*** in ecommerce website or social media based on the user likes and interests.
 
 
