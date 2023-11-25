@@ -10,6 +10,10 @@ Reasoning.\
 **Machine Exhibiting Intelligence** in Uncertain Environments like predicting weather conditions.\
 **Search-based AI** --> AI in Google Maps or Solving Puzzles.
 ## Machine Learning
-**A subfield of AI that gives computers the ability to learn itself by identifying patterns without being explicitly programmed**.\
-The best example for this is ***Personalized Suggestions*** in ecommerce websites or social media based on the user likes and interests.
+**A subfield of AI that gives computers the ability to learn itself by identifying patterns from the Data we provide without being explicitly programmed**.\
+
+The best example for this is ***Personalized Suggestions*** in ecommerce websites or social media based on the user likes and interests, Voice recognization and Face recognization also good examples of ML.
+
+**Data** --> Any information that is stored is called Data.
+- Image,Text file, Video,Emails,Messages,etc.
 
