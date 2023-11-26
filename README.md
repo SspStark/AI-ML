@@ -60,6 +60,8 @@ Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction funct
 - Example: Youtube or Instagram recommend shorts or reels based on the data of your previously watched and liked shorts and reels to make you keep watching and spending more time on it so that they will benefit and you will waste your time and ruin your future.
 - Supervised Learning is two types --> **Classification** and **Regression**.
 - **Classification**: When a Target Feature is *Discrete valued* which means it can be countable.<br/> Ex: Like/Dislike, Yes/No and Image recognization: cat, dog, lion etc.
+- **Regression**: When a Target Feature is *Continuous valued*<br/>
+Ex: continuously increasing and decreasing of prices of products.
 
 
 
