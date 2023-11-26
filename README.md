@@ -32,6 +32,8 @@ Data --> ML Software --> Program(Intelligent)
 **Types of Data**
 - Structured Data
 - Unstructured Data
+- Labeled Data
+- Unlabeled Data
 
 **Structured Data**
 - Any data that can be displayed in rows and columns.
@@ -44,6 +46,12 @@ Data --> ML Software --> Program(Intelligent)
 - Can't be analyzed using regular methods using for structured data.
 - 80% of enterprise data is unstructured.
 - To make computations easier, unstructured data is transformed into ***matrices***.
+
+**Labeled data**
+- data labeling is the process of identifying raw data (images, text files, videos, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. (or) simply, Labeled data is carefully annotated with meaningful tags, or labels, that classify the data's elements or outcomes.
+- For example, in a dataset of emails, each email might be labeled as "spam" or "not spam." These labels then provide a clear guide for a machine learning algorithm to learn from.
+- The column which has to be predicted is called as Target Feature (or) Target Attribute (or) Target Variable (or) Target Label.
+
 
 
 
