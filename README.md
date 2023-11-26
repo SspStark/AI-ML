@@ -41,7 +41,9 @@ Data --> ML Software --> Program(Intelligent)
 
 **Unstructured Data**
 - Images, audio, video, text,...
-- Can't be analyzed
+- Can't be analyzed using regular methods using for structured data.
+- 80% of enterprise data is unstructured.
+- To make computations easier, unstructured data is transformed into ***matrices***.
 
 
 
