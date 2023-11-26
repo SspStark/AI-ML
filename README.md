@@ -58,7 +58,7 @@ Data --> ML Software --> Program(Intelligent) or Prediction function.
 **Supervised Learning**
 - Learning a **Prediction Function** that **maps** *Input* with *Output* using labelled Data.
 - Supervised learning is a type of machine learning where an algorithm learns from labeled training data to make predictions or decisions. The model is trained on input-output pairs, and its goal is to map input data to the correct output based on the provided examples. This enables the model to generalize its learning to make predictions on new, unseen data.
-- Example: Youtube or Instagram recommend shorts or reels based on your previously watched and liked shorts and reels to make you keep watching and spending more time on it so that they will benefit and you will waste your time and ruin your future.
+- Example: Youtube or Instagram recommend shorts or reels based on the data of your previously watched and liked shorts and reels to make you keep watching and spending more time on it so that they will benefit and you will waste your time and ruin your future.
 
 
 
