@@ -25,7 +25,7 @@ Data Science is the science of **extracting knowledge and insights from data**.
 **Data** --> Any information that is stored is called Data.
 - Image, Text file, Video, Emails, Messages, etc.
 
-Machine Learning have certain Algorithms, when these Algorithms written as **code** is called ML Software.
+**Machine Learning have certain Algorithms, when these Algorithms written as code is called ML Software**.
 
 Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction function.
 
