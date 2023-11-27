@@ -62,7 +62,10 @@ Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction funct
 - **Classification**: When a Target Feature is *Discrete valued* which means it can be countable.<br/> Ex: Like/Dislike, Yes/No and Image recognization: cat, dog, lion etc.
 - **Regression**: When a Target Feature is *Continuous valued*<br/>
 Ex: continuously increasing and decreasing of prices of products.
+- It is usually hard to collect large amount of labelled data.
 
+**Unsupervised Learning**
+- It is a type of machine learning that looks for patterns in a data set with no pre-existing labels.
 
 
 
