@@ -69,7 +69,7 @@ Ex: continuously increasing and decreasing of prices of products.
 - **Clustering**: Grouping similar data or information together. Examples include k-means clustering and hierarchical clustering. A very known example is *Google Photos* grouping similar images.
 - **Dimensionality Reduction**: Reducing the number of features or variables in the data while retaining important information. Principal Component Analysis (PCA) is an example.
 - **Association**: Discovering relationships or associations between variables. Apriori algorithm for mining association rules is an example.<br/>
-Ex: When we search about a sci-fi movie in google it will also recommend other sci-fi movies under "people also watch" (or) in flipcart when we try to buy a mobile it will recommend pouch and screen glass under 'frequently bought together' this is because a lot users or customers watching those recommend movies or buying those required products together based on that it will start recommending.
+Ex: When we search about a sci-fi movie in google it will also recommend other sci-fi movies under "people also watch" (or) in flipcart when we try to buy a mobile it will recommend pouch and screen glass under 'frequently bought together' this is because a lot of users or customers watching those recommend movies or buying those required products together based on that it will start recommending.
 
 
 
