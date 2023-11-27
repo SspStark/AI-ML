@@ -57,7 +57,7 @@ Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction funct
 **Supervised Learning**
 - Learning a **Prediction Function** that **maps** *Input* with *Output* using labelled Data.
 - **Supervised learning** is a type of machine learning where an algorithm learns from labeled training data to make predictions or decisions. The model is trained on input-output pairs, and its goal is to map input data to the correct output based on the provided examples. This enables the model to generalize its learning to make predictions on new, unseen data.
-- Example: Youtube or Instagram recommend shorts or reels based on the data of your previously watched and liked shorts and reels to make you keep watching and spending more time on it so that they will benefit and you will waste your time and ruin your future.
+- Example: Youtube or Instagram recommending shorts or reels based on the data of your previously watched and liked shorts and reels to make you keep watching and spending more time on it so that they will benefit and you will waste your time and ruin your future.
 - Supervised Learning is two types --> **Classification** and **Regression**.
 - **Classification**: When a Target Feature is *Discrete valued* which means it can be countable.<br/> Ex: Like/Dislike, Yes/No and Image recognization: cat, dog, lion etc.
 - **Regression**: When a Target Feature is *Continuous valued*<br/>
@@ -66,8 +66,10 @@ Ex: continuously increasing and decreasing of prices of products.
 
 **Unsupervised Learning**
 - It is a type of machine learning that looks for patterns in a data set with no pre-existing labels.
-
-
+- Clustering: Grouping similar data or information together. Examples include k-means clustering and hierarchical clustering. A very known example is *Google Photos* grouping similar images.
+- Dimensionality Reduction: Reducing the number of features or variables in the data while retaining important information. Principal Component Analysis (PCA) is an example.
+- Association: Discovering relationships or associations between variables. Apriori algorithm for mining association rules is an example.<br/>
+Ex: When we search about a sci-fi movie in google it will also recommend other sci-fi movies under "people also watch" (or) in flipcart when we try to buy a mobile it will recommend pouch and screen glass under 'frequently bought together' this is because a lot users or custemors watching those recommend movies or buying those required products together based on that it will start recommending.
 
 
 
