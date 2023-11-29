@@ -27,7 +27,11 @@ Data Science is the science of **extracting knowledge and insights from data**.
 
 **Machine Learning have certain Algorithms, when these Algorithms written as code is called ML Software**.
 
-Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction function.
+Training
+- Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction function.
+
+Prediction
+- New Inputs --> Prediction Function --> Predicted Output
 
 “Prediction” refers to the output of an algorithm after it has been trained on a given old dataset and applied to new data when predicting the possibility of a particular outcome.
 
@@ -71,6 +75,8 @@ Ex: continuously increasing and decreasing of prices of products.
 - **Association**: Discovering relationships or associations between variables. Apriori algorithm for mining association rules is an example.<br/>
 Ex: When we search about a sci-fi movie in google it will also recommend other sci-fi movies under "people also watch" (or) in flipcart when we try to buy a mobile it will recommend pouch and screen glass under 'frequently bought together' this is because a lot of users or customers watching those recommend movies or buying those required products together based on that it will start recommending.
 
+**Semi-Supervised Learning**
+-  
 
 
 
