@@ -29,7 +29,7 @@ Data Science is the science of **extracting knowledge and insights from data**.
 
 Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction function.
 
-“Prediction” refers to the output of an algorithm after it has been trained on a historical dataset and applied to new data when forecasting the likelihood of a particular outcome.
+“Prediction” refers to the output of an algorithm after it has been trained on a given old dataset and applied to new data when predicting the possibility of a particular outcome.
 
 **Types of Data**
 - Structured Data
@@ -50,7 +50,7 @@ Data --> ML Software --> Intelligent Program (or) ML Model (or) Prediction funct
 - To make computations easier, unstructured data is transformed into ***matrices***.
 
 **Labeled data**
-- data labeling is the process of identifying raw data (images, text files, videos, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. (or) simply, Labeled data is carefully annotated with meaningful tags, or labels, that classify the data's elements or outcomes.
+- data labeling is the process of identifying raw data (images, text files, videos, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. (or) simply, Labeled data is carefully labelled with meaningful tags, or labels, that classify the data's elements or outcomes.
 - For example, in a dataset of emails, each email might be labeled as "spam" or "not spam." These labels then provide a clear guide for a machine learning algorithm to learn from.
 - The column which has to be predicted is called as Target Feature (or) Target Attribute (or) Target Variable (or) Target Label.
 ### Types of ML
