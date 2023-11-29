@@ -81,6 +81,15 @@ Ex: When we search about a sci-fi movie in google it will also recommend other s
 - One common approach in semi-supervised learning is to use the labeled data to train a model initially and then use the trained model to predict labels for the unlabeled data. These predicted labels are then treated as if they were true labels, and the model is further refined using this ***pseudo-labeled data***.
 - Ex: Natural language processing, image recognition, and healthcare.
 
+**Reinforcement Learning**
+- Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent learns to achieve a goal in an complex environment by receiving feedback in the form of rewards or punishments. The primary focus of reinforcement learning is on learning best sequences of actions to maximize cumulative rewards over time.
+- **Agent**: The entity or system that takes actions within an environment. The agent is the learner in the RL framework.
+- **Environment**: The external system with which the agent interacts. It represents the context or surroundings in which the agent operates.
+- **Action**: The set of possible moves or decisions that the agent can take in a given state. Actions are the choices available to the agent.
+- **Reward**: A numerical value that the environment provides to the agent as feedback after it takes an action in a particular state. The reward indicates the immediate benefit or cost associated with the action.
+- The learning process in reinforcement learning typically involves the agent interacting with the environment, receiving feedback in the form of rewards, updating its knowledge or policy based on this feedback, and iteratively improving its decision-making capabilities.
+- Ex: Robotics, game playing, autonomous systems, and optimization problems. Notable algorithms in reinforcement learning include Q-learning, Deep Q Networks (DQN), and Policy Gradient methods.
+
 
 
 
