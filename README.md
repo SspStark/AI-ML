@@ -76,7 +76,10 @@ Ex: continuously increasing and decreasing of prices of products.
 Ex: When we search about a sci-fi movie in google it will also recommend other sci-fi movies under "people also watch" (or) in flipcart when we try to buy a mobile it will recommend pouch and screen glass under 'frequently bought together' this is because a lot of users or customers watching those recommend movies or buying those required products together based on that it will start recommending.
 
 **Semi-Supervised Learning**
--  
+- Semi-supervised learning is a type of machine learning that falls between supervised learning and unsupervised learning. In semi-supervised learning, the algorithm is trained on a dataset that contains both labeled and unlabeled data. The presence of labeled data provides better guidance for learning, while the unlabeled data allows the algorithm to explore and discover additional patterns or structures within the data.
+- Semi-supervised learning is frequently applied to classification tasks, where the algorithm learns to predict the labels of unlabeled data points based on the patterns it has identified in the labeled data.
+- One common approach in semi-supervised learning is to use the labeled data to train a model initially and then use the trained model to predict labels for the unlabeled data. These predicted labels are then treated as if they were true labels, and the model is further refined using this ***pseudo-labeled data***.
+- Ex: Natural language processing, image recognition, and healthcare.
 
 
 
