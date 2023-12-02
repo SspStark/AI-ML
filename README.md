@@ -5,7 +5,7 @@
 - Machine identifying patterns and learning by itself.
 ### Programming machines Examples:
 **Knowledge-based AI**\
-Expert Systems --> AI Suggesting what to do based on our questions and answers, like a docter.\
+Expert Systems --> AI Suggesting what to do based on our questions and answers, like a doctor.\
 Reasoning.\
 **Machine Exhibiting Intelligence** in Uncertain Environments like predicting weather conditions.\
 **Search-based AI** --> AI in Google Maps or Solving Puzzles.
