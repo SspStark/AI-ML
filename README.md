@@ -92,6 +92,18 @@ Ex: When we search about a sci-fi movie in google it will also recommend other s
 - Ex: Robotics, game playing, autonomous systems, and optimization problems. Notable algorithms in reinforcement learning include Q-learning, Deep Q Networks (DQN), and Policy Gradient methods.
 ## ML Project Workflow
 ### Workflow of Supervised Learning
+Why choosing workflow for Supervised Learning?
+- A lot of applications thesedays are in the field or subfield of Supervised Learning.
+- Most of the things would be similar in all the types of ML so understanding the workflow of Supervised Learning will also helps in understanding the workflow of others like SSL, UL, RL.
+
+Workflow of Supervised Learning Classified into different steps, different people classified it into different no. of steps but widely accepted one is 4 major steps which are
+- Domain Problem to ML problem
+- Data Collection & Preparation
+- Training
+- Deployment
+
+**Data Collection & Preparation**
+- There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Explorative Data Analysis & Feature Engineering.
 
 
 
