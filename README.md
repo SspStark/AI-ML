@@ -91,7 +91,7 @@ Ex: When we search about a sci-fi movie in google it will also recommend other s
 - The learning process in reinforcement learning typically involves the agent interacting with the environment, receiving feedback in the form of rewards, updating its knowledge or policy based on this feedback, and iteratively improving its decision-making capabilities.
 - Ex: Robotics, game playing, autonomous systems, and optimization problems. Notable algorithms in reinforcement learning include Q-learning, Deep Q Networks (DQN), and Policy Gradient methods.
 ## ML Project Workflow
-**Workflow of Supervised Learning**
+### Workflow of Supervised Learning
 
 
 
