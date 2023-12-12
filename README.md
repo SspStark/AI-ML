@@ -123,7 +123,8 @@ There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data An
 - Feature Engineering is the process of transforming raw data into a format that can better represent the underlying patterns of the problem to the machine learning algorithms. It involves creating new features or modifying existing ones to improve the model's performance.
 - Effective feature engineering can significantly impact the performance of machine learning models, making them more accurate and robust. It requires a deep understanding of the data and the problem domain.
 ### Training
-**Choosing ML Algorithm**\
+**Choosing ML Algorithm**
+
 We choose an algorithm based on Influencing Factors
 - ML Problem
 - Amount of Data
@@ -139,7 +140,8 @@ A few well known algorithms are
 - Random Forests
 - Logistic Regression and many more....
 
-**Training the Model**\
+**Training the Model**
+
 After choosing the ML Algorithm, we will convert this algorithm into ML Software which means we will code this algorithm, when coding this algorithm we use tools like
 - Pandas
 - Scikit Learn
@@ -149,3 +151,13 @@ After choosing the ML Algorithm, we will convert this algorithm into ML Software
 with these tools or libraries we don't have to write code for ML Software from scratch.\
 And this ML Software with analysing the given data for patterns will give a Model as an output
 
+**Model Evaluation**
+
+After we got Model we will split the data into *Training Data*, *Validation Data* and *Testing Data*.\
+To Evaluate the Model we have Evaluation Metrics which are Accuracy, Precision, Recall, F1 score and many more.....
+
+**Hyperparameter Tuning**
+
+Hyperparameter: Every ML algorithm has a set of parameters which are used to define and control the training process.
+
+With Hyperparameters and Training Data we do the training then we will get the Model and we will Evaluate the Model with Validation Data then we will get the Performance Metric which are Accuracy, Precision etc of the Model.
