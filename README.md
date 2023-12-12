@@ -123,4 +123,9 @@ There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data An
 - Feature Engineering is the process of transforming raw data into a format that can better represent the underlying patterns of the problem to the machine learning algorithms. It involves creating new features or modifying existing ones to improve the model's performance.
 - Effective feature engineering can significantly impact the performance of machine learning models, making them more accurate and robust. It requires a deep understanding of the data and the problem domain.
 ### Training
-
+**Choosing ML Algorithm**\
+We choose an algorithm based on Influencing Factors
+- ML Problem
+- Amount of Data
+- Accuracy
+- Scalability
