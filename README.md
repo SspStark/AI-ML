@@ -101,18 +101,26 @@ Workflow of Supervised Learning Classified into different steps, different peopl
 - Data Collection & Preparation
 - Training
 - Deployment
+### Domain Problem to ML Problem
+Translating a domain problem to an ML problem involves converting a real-world challenge or goal into a specific question that machine learning can answer. It's about defining the problem in a way that allows us to use data and algorithms to find a solution or make predictions. This step clarifies what we want to achieve and sets the stage for applying machine learning techniques to address the problem effectively.
 
-**Domain Problem to ML Problem**
-- Translating a domain problem to an ML problem involves converting a real-world challenge or goal into a specific question that machine learning can answer. It's about defining the problem in a way that allows us to use data and algorithms to find a solution or make predictions. This step clarifies what we want to achieve and sets the stage for applying machine learning techniques to address the problem effectively.
-- To Understand the Domain we need to ***Talk to domain experts***, Understand more about ***available data & constraints of the problem*** and make sure that ***ML can solve the problem***.
+To Understand the Domain we need to ***Talk to domain experts***, Understand more about ***available data & constraints of the problem*** and make sure that ***ML can solve the problem***.
+### Data Collection & Preparation
+There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data Analysis & Feature Engineering.
 
-**Data Collection & Preparation**
-- There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data Analysis & Feature Engineering.
-- **Data Collection**: Collecting various data sources and steps to extract data.
-- **Data Preprocessing**: Integrating the data from various sources.
+**Data Collection** 
+- Collecting various data sources and steps to extract data.
+
+**Data Preprocessing**
+- Integrating the data from various sources.
 - Cleaning the data from ***Duplicates & Outliers*** and ***Handling missing values***.
-- **Exploratory Data Analysis**: Exploratory Data Analysis is the process of visually and statistically summarizing, interpreting, and understanding the main characteristics of a dataset. The goal is to gain insights into the data, identify patterns, detect anomalies, and inform subsequent steps in the data analysis or machine learning process.
+
+**Exploratory Data Analysis**
+- Exploratory Data Analysis is the process of visually and statistically summarizing, interpreting, and understanding the main characteristics of a dataset. The goal is to gain insights into the data, identify patterns, detect anomalies, and inform subsequent steps in the data analysis or machine learning process.
 - EDA is an essential step before building machine learning models as it helps practitioners understand the nature of the data they are working with.
-- **Feature Engineering**: Feature Engineering is the process of transforming raw data into a format that can better represent the underlying patterns of the problem to the machine learning algorithms. It involves creating new features or modifying existing ones to improve the model's performance.
+
+**Feature Engineering**
+- Feature Engineering is the process of transforming raw data into a format that can better represent the underlying patterns of the problem to the machine learning algorithms. It involves creating new features or modifying existing ones to improve the model's performance.
 - Effective feature engineering can significantly impact the performance of machine learning models, making them more accurate and robust. It requires a deep understanding of the data and the problem domain.
+### Training
 
