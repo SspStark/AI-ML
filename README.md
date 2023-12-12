@@ -144,7 +144,8 @@ After choosing the ML Algorithm, we will convert this algorithm into ML Software
 - Pandas
 - Scikit Learn
 - Keras
-- PyTorch\
+- PyTorch
+
 with these tools or libraries we don't have to write code for ML Software from scratch.\
 And this ML Software with analysing the given data for patterns will give a Model as an output
 
