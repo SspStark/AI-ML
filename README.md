@@ -129,3 +129,12 @@ We choose an algorithm based on Influencing Factors
 - Amount of Data
 - Accuracy
 - Scalability
+
+A few well known algorithms are
+- Neural Networks
+- Decision Trees
+- Support Vector Machine(SVM)
+- Naive Bayes
+- k-NN
+- Random Forests
+- Logistic Regression
