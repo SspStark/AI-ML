@@ -167,3 +167,16 @@ What actually happens in the Evaluation process is, in a set of data we have val
 **Training Final Model**
 - Here we merge the Training Data & Validation Data and do the training with hyperparameters them we will get the Final Model.
 - With Final Model we will do the Evaluation with Testing Data and we will get the final Performence Metrics.
+### Deployment
+Interpreting the Results
+
+**Explainable AI**
+- In some scenarios, it becomes very important to be able to ***explain the predictions*** made by ML Models.
+
+**Packaging and Shipping**
+- Deployed Model + Real World Inputs --> Real Life Application --> Predictions in Real World
+
+**Maintenance and Monitoring**
+- Review Model's Results
+- Re-train the Model
+- Sometimes, we might have to even change the Algorithm
