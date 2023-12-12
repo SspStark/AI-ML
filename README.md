@@ -160,4 +160,10 @@ To Evaluate the Model we have Evaluation Metrics which are Accuracy, Precision, 
 
 Hyperparameter: Every ML algorithm has a set of parameters which are used to define and control the training process.
 
-With Hyperparameters and Training Data we do the training then we will get the Model and we will Evaluate the Model with Validation Data then we will get the Performance Metric which are Accuracy, Precision etc of the Model.
+With Hyperparameters and Training Data we do the training then we will get the Model and we will ***Evaluate*** the Model with Validation Data then we will get the Performance Metric which are Accuracy, Precision etc of the Model.This Process will continue with changing Hyperparameters everytime with changing the Algorithm until we get desired Performance Metric.
+
+What actually happens in the Evaluation process is, in a set of data we have val_x and actual_val_y, now using the val_x with Model we get the predicted_val_y then we compare this predicted_val_y with actual_val_y which is called Evaluation.
+
+**Training Final Model**
+- Here we merge the Training Data & Validation Data and do the training with hyperparameters them we will get the Final Model.
+- With Final Model we will do the Evaluation with Testing Data and we will get the final Performence Metrics.
