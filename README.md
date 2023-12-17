@@ -54,7 +54,7 @@ Prediction
 - To make computations easier, unstructured data is transformed into ***matrices***.
 
 **Labeled data**
-- data labeling is the process of identifying raw data (images, text files, videos, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. (or) simply, Labeled data is carefully labelled with meaningful tags, or labels, that classify the data's elements or outcomes.
+- Data labeling is the process of identifying raw data (images, text files, videos, etc.) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. (or) simply, Labeled data is carefully labelled with meaningful tags, or labels, that classify the data's elements or outcomes.
 - For example, in a dataset of emails, each email might be labeled as "spam" or "not spam." These labels then provide a clear guide for a machine learning algorithm to learn from.
 - The column which has to be predicted is called as Target Feature (or) Target Attribute (or) Target Variable (or) Target Label.
 ### Types of ML
@@ -107,6 +107,8 @@ Workflow of Supervised Learning Classified into different steps, different peopl
 Translating a domain problem to an ML problem involves converting a real-world challenge or goal into a specific question that machine learning can answer. It's about defining the problem in a way that allows us to use data and algorithms to find a solution or make predictions. This step clarifies what we want to achieve and sets the stage for applying machine learning techniques to address the problem effectively.
 
 To Understand the Domain we need to ***Talk to domain experts***, Understand more about ***available data & constraints of the problem*** and make sure that ***ML can solve the problem***.
+
+Ex: Domain - User Engagement | Domain Problem - Making Users spend more time on video platform | ML Problem - User Info + Video Info --> Likes?
 ### Data Collection & Preparation
 There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data Analysis & Feature Engineering.
 
