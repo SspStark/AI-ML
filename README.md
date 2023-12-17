@@ -68,6 +68,8 @@ Prediction
 Ex: continuously increasing and decreasing of prices of products.
 - Supervised learning requires at least one input attribute in the data and at least one output attribute in the data.
 - It is usually hard to collect large amount of labelled data.
+- There could be one or multiple targets as the desired output.
+- Ex: Spam filtering, Speech to Text, Machine Translation, Online Advertising.
 
 **Unsupervised Learning**
 - It is a type of machine learning that looks for patterns in a data set with no pre-existing labels.
