@@ -114,6 +114,13 @@ There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data An
 
 **Data Collection** 
 - Collecting various data sources and steps to extract data.
+- Data can be collected from Sales team, Marketing Team and Other Sources from all these we will have Raw Data and we need to specify the Target Feature.
+
+In Supervised Learning the labeled data can be acquired from
+- Manual Labeling
+- Observing Behaviours
+- Downloading from Websites
+- Data Labeling Services & Tools
 
 **Data Preprocessing**
 - Integrating the data from various sources.
@@ -122,10 +129,13 @@ There are 3 steps 1.Data Collection, 2.Data Preprocessing, 3.Exploratory Data An
 **Exploratory Data Analysis**
 - Exploratory Data Analysis is the process of visually and statistically summarizing, interpreting, and understanding the main characteristics of a dataset. The goal is to gain insights into the data, identify patterns, detect anomalies, and inform subsequent steps in the data analysis or machine learning process.
 - EDA is an essential step before building machine learning models as it helps practitioners understand the nature of the data they are working with.
+- Tools that we can use are matplotlib, Pandas, Amazon Glue.
+- For example in a Users data understanding relations like certain age group might like certain type of advertisements.
 
 **Feature Engineering**
 - Feature Engineering is the process of transforming raw data into a format that can better represent the underlying patterns of the problem to the machine learning algorithms. It involves creating new features or modifying existing ones to improve the model's performance.
 - Effective feature engineering can significantly impact the performance of machine learning models, making them more accurate and robust. It requires a deep understanding of the data and the problem domain.
+- For example in Users data there will be features like name, age, phone number, gender or city in all these features only gender, city and age will be useful to predict which kind of advertisements should show to users this selecting the relevent features and dropping the irrelevent features happen in Feature Engineering
 ### Training
 **Choosing ML Algorithm**
 
@@ -167,6 +177,8 @@ Hyperparameter: Every ML algorithm has a set of parameters which are used to def
 With Hyperparameters and Training Data we do the training then we will get the Model and we will ***Evaluate*** the Model with Validation Data then we will get the Performance Metric which are Accuracy, Precision etc of the Model.This Process will continue with changing Hyperparameters everytime with changing the Algorithm until we get desired Performance Metric.
 
 What actually happens in the Evaluation process is, in a set of data we have val_x and actual_val_y, now using the val_x with Model we get the predicted_val_y then we compare this predicted_val_y with actual_val_y which is called Evaluation.
+
+(Hyperparameters + Training set)Training --> Model | (Model + Validation set)Evaluation --> Performance Metrics and this cycle will go on until we get desired outcome.
 
 **Training Final Model**
 - Here we merge the Training Data & Validation Data and do the training with hyperparameters them we will get the Final Model.
