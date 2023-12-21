@@ -196,7 +196,3 @@ Interpreting the Results
 - Review Model's Results
 - Re-train the Model
 - Sometimes, we might have to even change the Algorithm
-
-## Computer Vision
-Enabling computers to understand the content of digital images or videos. In order to search images or videos, computers needs to know what the image or video contains.
-- Ex: Object Detection, Face Recognition, Image Classification, Feature Matching 
