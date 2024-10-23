@@ -12,7 +12,7 @@ Reasoning.\
 ## Machine Learning
 **A subfield of AI that gives computers the ability to learn itself by identifying patterns from the Data we provide using different ML Algorithms without being explicitly programmed**.
 
-The best example for this is ***Personalized Suggestions*** in ecommerce websites or social media based on the user likes and interests, Voice recognization and Face recognization also good examples of ML.
+The best example for this is ***Personalized Suggestions, Targeted Advertisements*** in ecommerce websites or social media based on the user likes and interests, Voice recognization and Face recognization also good examples of ML.
 ## Deep Learning
 Deep Learning is part of ML, it deals with huge volumes of data to identify the underlying patterns in it.\
 It is also called as Artificial Neural Networks.
