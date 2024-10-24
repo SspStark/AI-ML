@@ -44,12 +44,12 @@ Prediction
 **Structured Data**
 - Any data that can be displayed in rows and columns.
 - Easy to analyze, Ex: sensors data, app data, network data, e-commerce data, etc.
-- Each row is called as an instace (or) an example (or) a sample.
+- Each row is called as an instance (or) an example (or) a sample.
 - Each column is called as Feature (or) Attribute.
 
 **Unstructured Data**
 - Images, audio, video, text,...
-- Can't be analyzed using regular methods using for structured data.
+- Can't be analyzed using regular methods used for structured data.
 - 80% of enterprise data is unstructured.
 - To make computations easier, unstructured data is transformed into ***matrices***.
 
@@ -67,7 +67,7 @@ Prediction
 - **Regression**: When a Target Feature is *Continuous valued*<br/>
 Ex: continuously increasing and decreasing of prices of products.
 - Supervised learning requires at least one input attribute in the data and at least one output attribute in the data.
-- It is usually hard to collect large amount of labelled data.
+- It is usually hard to collect large amount of labelled data. 
 - There could be one or multiple targets as the desired output.
 - Ex: Spam filtering, Speech to Text, Machine Translation, Online Advertising.
 
