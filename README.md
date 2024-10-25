@@ -140,15 +140,15 @@ In Supervised Learning the labeled data can be acquired from
 ### Training
 **Choosing ML Algorithm**
 
-We choose an algorithm based on Influencing Factors
+We choose an ML Algorithm based on Influencing Factors
 - ML Problem
 - Amount of Data
 - Accuracy
 - Scalability
 
-A few well known algorithms are
+A few well known ML Algorithms are
 - Neural Networks
-- Decision Trees
+- Decision Trees 
 - Support Vector Machine(SVM)
 - Naive Bayes
 - k-NN
@@ -159,6 +159,7 @@ A few well known algorithms are
 
 After choosing the ML Algorithm, we will convert this algorithm into ML Software which means we will code this algorithm, when coding this algorithm we use tools like
 - Pandas
+- TensorFlow
 - Scikit Learn
 - Keras
 - PyTorch
@@ -183,8 +184,10 @@ What actually happens in the Evaluation process is, in a set of data we have val
 
 **Training Final Model**
 - Here we merge the Training Data & Validation Data and do the training with hyperparameters them we will get the Final Model.
-- With Final Model we will do the Evaluation with Testing Data and we will get the final Performence Metrics.
+- With Final Model we will do the Evaluation with Testing Data and we will get the final Performence Metrics and the Model is ready to deploy.
 ### Deployment
+Deployment is the process of making software available to be used on a system by users and other programs.
+
 Interpreting the Results
 
 **Explainable AI**
