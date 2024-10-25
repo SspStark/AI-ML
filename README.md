@@ -130,6 +130,7 @@ In Supervised Learning the labeled data can be acquired from
 **Exploratory Data Analysis**
 - Exploratory Data Analysis is the process of visually and statistically summarizing, interpreting, and understanding the main characteristics of a dataset. The goal is to gain insights into the data, identify patterns, detect anomalies, and inform subsequent steps in the data analysis or machine learning process.
 - EDA is an essential step before building machine learning models as it helps practitioners understand the nature of the data they are working with.
+- It is used to understand the relationship between different features in the data.
 - Tools that we can use are matplotlib, Pandas, Amazon Glue.
 - For example in a Users data understanding relations like certain age group might like certain type of advertisements.
 
