@@ -201,5 +201,5 @@ Interpreting the Results
 - Review Model's Results
 - Re-train the Model
 - Sometimes, we might have to even change the Algorithm
-
+### Algorithms
 [k-NN Algorithm](https://github.com/SspStark/k-NN-Algorithm)
