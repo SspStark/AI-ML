@@ -201,5 +201,7 @@ Interpreting the Results
 - Review Model's Results
 - Re-train the Model
 - Sometimes, we might have to even change the Algorithm
+### Python Libraries
+- [Numpy](https://github.com/SspStark/NumPy-and-Colab)
 ### Algorithms
 [k-NN Algorithm](https://github.com/SspStark/k-NN-Algorithm)
