@@ -204,4 +204,4 @@ Interpreting the Results
 ### Python Libraries
 - [Numpy](https://github.com/SspStark/NumPy-and-Colab)
 ### Algorithms
-[k-NN Algorithm](https://github.com/SspStark/k-NN-Algorithm)
+- [k-NN Algorithm](https://github.com/SspStark/k-NN-Algorithm)
